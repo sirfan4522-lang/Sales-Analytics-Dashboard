@@ -38,3 +38,11 @@ This Power BI Sales Analytics Dashboard provides insights into sales performance
 - Dashboard Design
 - Business Intelligence
 - Data Visualization
+
+
+## Business Insights
+
+- Groceries generated the highest sales.
+- The 31–40 age group contributed the most revenue.
+- Repeat customers accounted for the majority of sales.
+- Monthly sales peaked during May and July.
